@@ -1,0 +1,19 @@
+{
+  "name": "test-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo This is a test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhaixun/test-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luhaixun/test-travis/issues"
+  },
+  "homepage": "https://github.com/luhaixun/test-travis#readme"
+}
